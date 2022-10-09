@@ -1,0 +1,17 @@
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+
+.app {
+    width: 800px;
+}
+
+.post {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid teal;
+    margin-top: 1rem;
+}
